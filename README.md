@@ -10,14 +10,13 @@ I am working on building web applications and learning continuously about new te
 I am really interested in **Javascript** and its frameworks as such is **React** , **Node.js** but also **Tailswind**, **GSAP** etc.
 
 
-## Tools && Technologies 
+## Tools & Technologies 
 
  - Visual Studio
  - Apple Notes
  - Canvas
  - JavaScript, Java, PHP, Python
- - React
- - Node.js,
+ - React, Node.js,
  - CSS, HTML, Tailswind, Bootstrap 
 
 ## My Goals and Hobbies 
@@ -28,6 +27,6 @@ I am really interested in **Javascript** and its frameworks as such is **React**
 
 ---
 
-  Fun Fact : 
+  ## Fun Fact : 
 
- ✨ I enjoy listening to music while coding ! 
+ # ✨ I enjoy listening to music while coding ! 
