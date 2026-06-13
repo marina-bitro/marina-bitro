@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**marina-bitro/marina-bitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm  **Marina** ,I am a Computer Science graduate currently focused on building modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me : 
+
+I am working on building web applications and learning continuously about new technologies to use in combination with my ideas.
+I am really interested in **Javascript** and its frameworks as such is **React** , **Node.js** but also **Tailswind**, **GSAP** etc.
+
+
+## Tools && Technologies 
+
+ - Visual Studio
+ - Apple Notes
+ - Canvas
+ - -
+ - JavaScript, Java, PHP, Python
+ - React
+ - Node.js,
+ - CSS, HTML, Tailswind, Bootstrap 
+
+## My Goals and Hobbies 
+
+  -  🇩🇪 Learning German with Duolingo  
+  -  Taking Harvard’s **CS50** course  
+  -  Continuously improving my software engineering skills
+
+---
+
+  Fun Fact : 
+
+ ✨ I enjoy listening to music while coding ! 
