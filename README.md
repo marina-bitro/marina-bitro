@@ -15,7 +15,6 @@ I am really interested in **Javascript** and its frameworks as such is **React**
  - Visual Studio
  - Apple Notes
  - Canvas
- - -
  - JavaScript, Java, PHP, Python
  - React
  - Node.js,
