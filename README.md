@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm  **Marina** ,I am a Computer Science graduate currently focused on building modern web applications.
+I'm  **Marina** ,a Computer Science graduate currently focused on building modern web applications.
 
 ---
 
 ## About Me : 
 
 I am working on building web applications and learning continuously about new technologies to use in combination with my ideas.
-I am really interested in **Javascript** and its frameworks as such is **React** , **Node.js** but also **Tailswind**, **GSAP** etc.
+I am really interested in **Javascript** and its frameworks as such is **React.js** , **Node.js** but also **Tailswind**, **GSAP** and more.
 
 
 ## Tools & Technologies 
@@ -29,4 +29,4 @@ I am really interested in **Javascript** and its frameworks as such is **React**
 
   ## Fun Fact : 
 
- ### ✨ I enjoy listening to music while coding ! 
+✨ I enjoy listening to music while coding ! 
